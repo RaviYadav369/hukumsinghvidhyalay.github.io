@@ -27,15 +27,15 @@ input[type="submit"], input[type="reset"], .w3layouts_banner_info_right ul li a,
 	-ms-transition: .5s ease-in;
 }
 /*-- banner --*/
-/* .banner {
-	background: url(../images/laptop14.jpeg) no-repeat 0px 0px;
+.banner1{
+	background: url(../images/laptop2.jpg) no-repeat 0px 0px;
 	background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	-ms-background-size: cover;
 	min-height: 700px;
-} */
+}
 /*-- nav --*/
 .container1{
 	height: 165px;
@@ -1445,7 +1445,7 @@ opacity: 0;
 }
 .banner {
 	background-position: -73px 0px;
-	min-height: 165px;
+	min-height: 321px;
 }
 .agileinfo_services_grid_right h4 {
 	font-size: 2.5em;
@@ -1823,10 +1823,7 @@ p, .w3layouts_mail_grid_right input[type="text"], .agileits_w3layouts_footer_gri
 			line-height: 1.6;
 			text-align: justify;
 		}
-		.banner {
-			background-position: -73px 0px;
-			min-height: 165px;
-		}
+		
 		
 		.nav-bar-img{
 		    width: 80px;
